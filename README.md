@@ -33,3 +33,10 @@ O projeto faz parte da atividade prática da disciplina **Sociedade da Informaç
 ---
 
 ✏️ **Exemplo de Estrutura da Pasta**
+meus-sites-favoritos/
+├── meus-sites-favoritos.html
+├── google.png
+├── youtube.png
+├── wikipedia.png
+├── github.png
+└── stackoverflow.png
